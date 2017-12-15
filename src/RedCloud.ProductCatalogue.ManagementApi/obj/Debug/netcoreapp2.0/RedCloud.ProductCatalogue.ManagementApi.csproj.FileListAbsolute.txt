@@ -1,0 +1,12 @@
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.ManagementApi\bin\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.ManagementApi.deps.json
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.ManagementApi\bin\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.ManagementApi.runtimeconfig.json
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.ManagementApi\bin\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.ManagementApi.runtimeconfig.dev.json
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.ManagementApi\bin\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.ManagementApi.dll
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.ManagementApi\bin\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.ManagementApi.pdb
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.ManagementApi\obj\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.ManagementApi.csproj.CoreCompileInputs.cache
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.ManagementApi\obj\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.ManagementApi.AssemblyInfoInputs.cache
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.ManagementApi\obj\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.ManagementApi.AssemblyInfo.cs
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.ManagementApi\obj\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.ManagementApi.dll
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.ManagementApi\obj\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.ManagementApi.pdb
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.ManagementApi\bin\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.Model.dll
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.ManagementApi\bin\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.Model.pdb

@@ -1,0 +1,8 @@
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.Model\bin\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.Model.deps.json
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.Model\bin\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.Model.dll
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.Model\bin\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.Model.pdb
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.Model\obj\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.Model.csproj.CoreCompileInputs.cache
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.Model\obj\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.Model.AssemblyInfoInputs.cache
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.Model\obj\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.Model.AssemblyInfo.cs
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.Model\obj\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.Model.dll
+d:\git-pd\cloud-projects\RedCloud.ProductCatalogue\src\RedCloud.ProductCatalogue.Model\obj\Debug\netcoreapp2.0\RedCloud.ProductCatalogue.Model.pdb
