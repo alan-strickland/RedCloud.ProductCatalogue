@@ -24,19 +24,24 @@ namespace RedCloud.ProductCatalogue.ManagementApi.Controllers
         }   
 
 
-        // // GET api/values
-        // [HttpGet]
-        // public IEnumerable<string> Get()
-        // {
-        //     return new string[] { "value1", "value2" };
-        // }
+        // GET api/values
+        [HttpGet]
+        public IEnumerable<Product> Get()
+        {
+            return _context.Products.ToList();
+        }
 
-        // // GET api/values/5
-        // [HttpGet("{id}")]
-        // public string Get(int id)
-        // {
-        //     return "value";
-        // }
+        // GET api/values/5
+        [HttpGet("{id}")]
+        public IActionResult Get(int id)
+        {
+            var item = _context.Products.FirstOrDefault(t => t.Id == id);
+            if (item == null)
+            {
+                return NotFound();
+            }
+            return new ObjectResult(item);
+        }
 
         // // POST api/values
         // [HttpPost]
